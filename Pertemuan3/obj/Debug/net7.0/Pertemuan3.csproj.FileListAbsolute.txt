@@ -1,0 +1,14 @@
+C:\Users\Magister ilmu Hukum\OneDrive\Desktop\New folder (3)\Pertemuan3\bin\Debug\net7.0\Pertemuan3.exe
+C:\Users\Magister ilmu Hukum\OneDrive\Desktop\New folder (3)\Pertemuan3\bin\Debug\net7.0\Pertemuan3.deps.json
+C:\Users\Magister ilmu Hukum\OneDrive\Desktop\New folder (3)\Pertemuan3\bin\Debug\net7.0\Pertemuan3.runtimeconfig.json
+C:\Users\Magister ilmu Hukum\OneDrive\Desktop\New folder (3)\Pertemuan3\bin\Debug\net7.0\Pertemuan3.dll
+C:\Users\Magister ilmu Hukum\OneDrive\Desktop\New folder (3)\Pertemuan3\bin\Debug\net7.0\Pertemuan3.pdb
+C:\Users\Magister ilmu Hukum\OneDrive\Desktop\New folder (3)\Pertemuan3\obj\Debug\net7.0\Pertemuan3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magister ilmu Hukum\OneDrive\Desktop\New folder (3)\Pertemuan3\obj\Debug\net7.0\Pertemuan3.AssemblyInfoInputs.cache
+C:\Users\Magister ilmu Hukum\OneDrive\Desktop\New folder (3)\Pertemuan3\obj\Debug\net7.0\Pertemuan3.AssemblyInfo.cs
+C:\Users\Magister ilmu Hukum\OneDrive\Desktop\New folder (3)\Pertemuan3\obj\Debug\net7.0\Pertemuan3.csproj.CoreCompileInputs.cache
+C:\Users\Magister ilmu Hukum\OneDrive\Desktop\New folder (3)\Pertemuan3\obj\Debug\net7.0\Pertemuan3.dll
+C:\Users\Magister ilmu Hukum\OneDrive\Desktop\New folder (3)\Pertemuan3\obj\Debug\net7.0\refint\Pertemuan3.dll
+C:\Users\Magister ilmu Hukum\OneDrive\Desktop\New folder (3)\Pertemuan3\obj\Debug\net7.0\Pertemuan3.pdb
+C:\Users\Magister ilmu Hukum\OneDrive\Desktop\New folder (3)\Pertemuan3\obj\Debug\net7.0\Pertemuan3.genruntimeconfig.cache
+C:\Users\Magister ilmu Hukum\OneDrive\Desktop\New folder (3)\Pertemuan3\obj\Debug\net7.0\ref\Pertemuan3.dll
